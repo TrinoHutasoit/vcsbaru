@@ -1,0 +1,3 @@
+belajar git remote
+
+dari lokal ke global
